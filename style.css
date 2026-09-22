@@ -137,6 +137,7 @@ form label, form legend{
 }
 .tablaAliniada{
     display: flex;
+    flex-direction: column;
     align-items: center;
 }
 table{
