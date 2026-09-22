@@ -135,7 +135,7 @@ form label, form legend{
     background: darkorange;
     transform: scale(1.2);
 }
-.tablaAlineada{
+.tablaAliniada{
     display: flex;
     align-items: center;
 }
